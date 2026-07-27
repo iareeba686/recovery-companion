@@ -8,6 +8,18 @@ The application helps users organize medical information, understand prescriptio
 
 ---
 
+# 📝 Recovery Plan Usage
+
+Users can create a personalized recovery plan by providing relevant patient information.
+
+The AI helps organize:
+- Recovery instructions
+- Medication information
+- Follow-up guidance
+- Recovery activities
+
+The generated plan is intended for support and organization and should be used along with professional medical advice.
+
 # 🎯 Problem Statement
 
 ## The Problem
@@ -260,3 +272,29 @@ FIREBASE_CONFIGURATION=your_configuration
 npm run dev
 
 http://localhost:3000
+
+
+Medical Disclaimer
+
+DischargeCare AI provides healthcare information organization and educational support.
+
+It does not diagnose diseases, replace healthcare professionals, or modify prescribed treatments.
+
+Users should always consult qualified healthcare providers for medical decisions.
+
+
+
+Developer
+
+Areeba Iqbal
+
+Project:
+
+DischargeCare AI – Recovery Companion
+
+An AI-powered healthcare solution designed to improve patient recovery experiences.
+
+
+
+
+
