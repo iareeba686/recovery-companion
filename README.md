@@ -248,33 +248,88 @@ The AI helps with:
 
 ---
 
+## AI System Prompt
+
+```
+You are a professional medical recovery assistant.
+
+Your role is to help patients understand medical information,
+prescriptions, medicines, and recovery instructions.
+
+Explain healthcare information in simple and understandable language.
+
+Provide safe and helpful healthcare guidance.
+
+Do not diagnose diseases.
+Do not replace healthcare professionals.
+Do not change prescribed medications or treatments.
+
+Always encourage users to consult qualified healthcare providers
+when medical attention is required.
+
 # 🚀 How to Run the Project Locally
 
-## Prerequisites
-
-Install:
-
-- Node.js
-- npm
-
+Follow these steps to run **DischargeCare AI – Recovery Companion** on your local machine.
 
 ## Clone Repository
 
 ```bash
 git clone https://github.com/iareeba686/Recovery-Companion.git
+```
+##  How to Run the Project Locally
 
+Follow these steps to run **DischargeCare AI – Recovery Companion** on your local machine.
+
+## Clone Repository
+
+```bash
+git clone https://github.com/iareeba686/Recovery-Companion.git
+```
+
+## Navigate to Project Directory
+
+```bash
+cd Recovery-Companion
+```
+
+## Install Dependencies
+
+Install all required packages:
+
+```bash
 npm install
+```
 
+## Environment Configuration
 
+Create a `.env` file in the project root directory and add the required environment variables:
+
+```env
 GEMINI_API_KEY=your_api_key
 FIREBASE_CONFIGURATION=your_configuration
+```
 
+Make sure all required API keys and Firebase configuration settings are properly added.
+
+## Start the Development Server
+
+Run the application:
+
+```bash
 npm run dev
+```
 
+## Open the Application
+
+Open your browser and visit:
+
+```text
 http://localhost:3000
+```
 
+---
 
-Medical Disclaimer
+# ⚠️ Medical Disclaimer
 
 DischargeCare AI provides healthcare information organization and educational support.
 
@@ -283,9 +338,7 @@ It does not diagnose diseases, replace healthcare professionals, or modify presc
 Users should always consult qualified healthcare providers for medical decisions.
 
 
-
-Developer
-
+## Developer
 Areeba Iqbal
 
 Project:
@@ -293,8 +346,3 @@ Project:
 DischargeCare AI – Recovery Companion
 
 An AI-powered healthcare solution designed to improve patient recovery experiences.
-
-
-
-
-
