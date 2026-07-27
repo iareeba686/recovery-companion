@@ -47,11 +47,7 @@ DischargeCare AI is designed for:
 ## Live Demo
 
 🔗 **Application URL:**
-
-YOUR_DEPLOYED_URL_HERE
-
-Example:
-
+https://recovery-companion-icdv.vercel.app/
 
 
 
@@ -64,6 +60,8 @@ Example:
 - User registration and login
 - Personalized user experience
 - Secure access to individual recovery information
+
+  
 
 
 ## 🏠 Recovery Dashboard
@@ -228,12 +226,12 @@ The AI helps with:
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="948" height="500" alt="image" src="https://github.com/user-attachments/assets/dcd9e829-a15e-4d02-bc13-2318a9b6fb3a" />
+
 
 
 ## AI Medical Assistant
 
-![AI Assistant](screenshots/ai-assistant.png)
 
 
 ## Recovery Plan
