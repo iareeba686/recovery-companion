@@ -57,6 +57,8 @@ https://recovery-companion-icdv.vercel.app/
 
 ## 🔐 User Authentication
 
+<img width="437" height="461" alt="image" src="https://github.com/user-attachments/assets/47403dae-9e88-48e6-8445-509f5d4df811" />
+
 - User registration and login
 - Personalized user experience
 - Secure access to individual recovery information
@@ -66,6 +68,8 @@ https://recovery-companion-icdv.vercel.app/
 
 ## 🏠 Recovery Dashboard
 
+<img width="949" height="462" alt="image" src="https://github.com/user-attachments/assets/1e63ae77-07a4-4d2b-a585-2f042e067724" />
+
 A centralized dashboard that provides access to:
 
 - Recovery information
@@ -74,6 +78,10 @@ A centralized dashboard that provides access to:
 
 
 ## 📝 AI Recovery Plan Generator
+
+<img width="741" height="298" alt="image" src="https://github.com/user-attachments/assets/2506cfaf-b150-4905-8a09-f9226eb77d21" />
+
+
 
 Creates organized recovery plans based on patient information.
 
@@ -85,21 +93,12 @@ Features:
 - Follow-up planning
 
 
-## 📄 Prescription Analyzer
-
-Helps users understand prescription information.
-
-Features:
-
-- Prescription information analysis
-- Medicine details organization
-- Dosage and instruction understanding
-- Patient-friendly medication explanation
-
 
 ## 💊 Medication Timeline
 
 Provides structured medication management.
+
+<img width="755" height="314" alt="image" src="https://github.com/user-attachments/assets/b20bb7d4-3c3f-4a56-a944-e45b6ff88d3d" />
 
 Features:
 
@@ -108,22 +107,17 @@ Features:
 - Treatment tracking
 
 
-## 🤖 AI Medical Assistant
-
-An AI-powered healthcare assistant that helps users with:
-
-- Medical-related questions
-- Recovery guidance
-- Healthcare information explanation
-- Patient-friendly responses
-
 
 ## 🌐 Urdu Prescription Explanation
+<img width="588" height="481" alt="image" src="https://github.com/user-attachments/assets/93f67206-5f52-4ff9-9eac-ea3e3dc6412b" />
+
 
 Provides prescription explanations in Urdu language to improve accessibility and understanding.
 
 
 ## 🔔 Reminders & Alerts
+<img width="875" height="345" alt="image" src="https://github.com/user-attachments/assets/6b45bf00-7176-4350-ac08-ff2fb886bcae" />
+
 
 Helps users remember:
 
@@ -135,6 +129,7 @@ Helps users remember:
 ## ✅ Recovery Checklist
 
 Provides a structured checklist for:
+<img width="883" height="363" alt="image" src="https://github.com/user-attachments/assets/fa26712a-0598-4aec-b1c4-d46ecfb8846e" />
 
 - Daily recovery activities
 - Care instructions
@@ -142,22 +137,28 @@ Provides a structured checklist for:
 
 
 ## ⚠️ Warning Signs Guidance
+<img width="892" height="353" alt="image" src="https://github.com/user-attachments/assets/8146ed89-e684-49dd-b11e-9a88b1f60278" />
+
 
 Provides important recovery safety information to help users understand when medical attention may be needed.
 
 
 ## 📑 PDF Recovery Report
 
+
 Generates printable recovery documents containing:
+
 
 - Recovery information
 - Medication details
 - Care instructions
+  
 
 
 ## 📱 QR Sharing
 
 Allows users to share recovery-related information through QR functionality.
+
 
 
 ## 🔊 Audio Guide
@@ -185,11 +186,6 @@ The AI helps with:
 - Healthcare-related questions
 - Patient-friendly guidance
 
-
-## AI System Prompt
-
-
----
 
 # 🛠️ Technologies Used
 
@@ -231,12 +227,12 @@ The AI helps with:
 
 
 ## AI Medical Assistant
+<img width="891" height="367" alt="image" src="https://github.com/user-attachments/assets/373b6b57-b3cd-4010-973b-d8249d151258" />
 
 
 
 ## Recovery Plan
-
-![Recovery Plan](screenshots/recovery-plan.png)
+<img width="876" height="467" alt="image" src="https://github.com/user-attachments/assets/79365712-ed8e-4250-b93d-b5d216fe9932" />
 
 ---
 
@@ -253,7 +249,7 @@ Install:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Recovery-Companion.git
+git clone https://github.com/iareeba686/Recovery-Companion.git
 
 npm install
 
