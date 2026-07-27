@@ -1,14 +1,10 @@
 # 🏥 DischargeCare AI – Recovery Companion
 
+## 📌 Project Overview
 
+DischargeCare AI is an AI-powered healthcare recovery assistant designed to help patients and caregivers understand and manage their post-discharge recovery journey.
 
-## 📌 Overview
-
-DischargeCare AI is an AI-powered healthcare recovery assistant designed to support patients and caregivers after hospital discharge.
-
-The application helps users understand medical information, prescriptions, medication schedules, and recovery instructions through an easy-to-use digital platform.
-
-By combining Artificial Intelligence with healthcare management tools, DischargeCare AI transforms complex medical information into simple, organized, and patient-friendly guidance.
+The application helps users organize medical information, understand prescriptions, manage medications, create recovery plans, and receive AI-based healthcare guidance in a simple and patient-friendly way.
 
 ---
 
@@ -16,31 +12,33 @@ By combining Artificial Intelligence with healthcare management tools, Discharge
 
 ## The Problem
 
-After leaving hospitals, many patients struggle to understand:
+After hospital discharge, many patients and caregivers face difficulties understanding:
 
 - Discharge instructions
-- Prescription information
+- Prescription details
 - Medication schedules
-- Recovery requirements
+- Recovery steps
 - Follow-up instructions
-- Important safety precautions
+- Important precautions
 
-Medical information is often complex, which can create confusion for patients and caregivers during the recovery process.
+Medical information is often complex and difficult to understand, which can create confusion during the recovery process.
 
 ## Our Solution
 
-DischargeCare AI provides an intelligent assistant that helps users organize their recovery journey by explaining medical information clearly and providing structured recovery support.
+DischargeCare AI solves this problem by converting complex healthcare information into organized, easy-to-understand recovery guidance using Artificial Intelligence.
+
+The app supports patients in managing their recovery journey and helps caregivers better understand patient care needs.
 
 ---
 
 # 👥 Target Users
 
-This application is designed for:
+DischargeCare AI is designed for:
 
 - Patients recovering after hospital discharge
-- Family members supporting patients
-- Caregivers managing recovery information
-- Individuals who need easier understanding of medical instructions
+- Family members and caregivers
+- Individuals who need better understanding of medical instructions
+- People managing medicines and recovery activities at home
 
 ---
 
@@ -48,31 +46,223 @@ This application is designed for:
 
 ## Live Demo
 
+🔗 **Application URL:**
 
-<img width="946" height="470" alt="image" src="https://github.com/user-attachments/assets/01ce228f-ae21-438b-8986-9b5d560951a3" />
+YOUR_DEPLOYED_URL_HERE
 
-Add your deployed Vercel URL here
-
-🔗https://recovery-companion-icdv.vercel.app/
-
-
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/6e07903d-08ae-49fc-9825-d898517ed507
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Example:
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+
+---
+
+# ✨ Features
+
+## 🔐 User Authentication
+
+- User registration and login
+- Personalized user experience
+- Secure access to individual recovery information
+
+
+## 🏠 Recovery Dashboard
+
+A centralized dashboard that provides access to:
+
+- Recovery information
+- Healthcare assistance tools
+- Patient recovery activities
+
+
+## 📝 AI Recovery Plan Generator
+
+Creates organized recovery plans based on patient information.
+
+Features:
+
+- Recovery information organization
+- Medical details management
+- Recovery guidance
+- Follow-up planning
+
+
+## 📄 Prescription Analyzer
+
+Helps users understand prescription information.
+
+Features:
+
+- Prescription information analysis
+- Medicine details organization
+- Dosage and instruction understanding
+- Patient-friendly medication explanation
+
+
+## 💊 Medication Timeline
+
+Provides structured medication management.
+
+Features:
+
+- Medication schedule organization
+- Medicine timing information
+- Treatment tracking
+
+
+## 🤖 AI Medical Assistant
+
+An AI-powered healthcare assistant that helps users with:
+
+- Medical-related questions
+- Recovery guidance
+- Healthcare information explanation
+- Patient-friendly responses
+
+
+## 🌐 Urdu Prescription Explanation
+
+Provides prescription explanations in Urdu language to improve accessibility and understanding.
+
+
+## 🔔 Reminders & Alerts
+
+Helps users remember:
+
+- Medication timings
+- Recovery activities
+- Important care tasks
+
+
+## ✅ Recovery Checklist
+
+Provides a structured checklist for:
+
+- Daily recovery activities
+- Care instructions
+- Recovery progress tracking
+
+
+## ⚠️ Warning Signs Guidance
+
+Provides important recovery safety information to help users understand when medical attention may be needed.
+
+
+## 📑 PDF Recovery Report
+
+Generates printable recovery documents containing:
+
+- Recovery information
+- Medication details
+- Care instructions
+
+
+## 📱 QR Sharing
+
+Allows users to share recovery-related information through QR functionality.
+
+
+## 🔊 Audio Guide
+
+Provides audio-based guidance for better accessibility.
+
+
+## 👨‍👩‍👧 Caregiver View
+
+Helps caregivers understand and support the patient's recovery journey.
+
+---
+
+# 🧠 AI Feature
+
+## Google Gemini AI Integration
+
+DischargeCare AI uses Google Gemini AI to provide intelligent healthcare assistance.
+
+The AI helps with:
+
+- Medical information explanation
+- Prescription understanding
+- Recovery plan assistance
+- Healthcare-related questions
+- Patient-friendly guidance
+
+
+## AI System Prompt
+
+
+---
+
+# 🛠️ Technologies Used
+
+## Frontend
+
+- React.js
+- JavaScript
+- Tailwind CSS
+
+
+## Backend & Services
+
+- Firebase Authentication
+- Firebase Database / Firestore
+
+
+## Artificial Intelligence
+
+- Google Gemini AI API
+
+
+## Deployment
+
+- Vercel
+
+
+## Version Control
+
+- GitHub
+
+---
+
+# 📸 Screenshots
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+
+## AI Medical Assistant
+
+![AI Assistant](screenshots/ai-assistant.png)
+
+
+## Recovery Plan
+
+![Recovery Plan](screenshots/recovery-plan.png)
+
+---
+
+# 🚀 How to Run the Project Locally
+
+## Prerequisites
+
+Install:
+
+- Node.js
+- npm
+
+
+## Clone Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Recovery-Companion.git
+
+npm install
+
+
+GEMINI_API_KEY=your_api_key
+FIREBASE_CONFIGURATION=your_configuration
+
+npm run dev
+
+http://localhost:3000
